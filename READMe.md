@@ -18,20 +18,21 @@ Visualization: The result is visualized with the cones and a particle animating 
 
 Steps
 
-    # 1. Load Data
+    1. Load Data
 
-    # 2. Estimate Track Center
+    2. Estimate Track Center
     
-    # 3. Separate Cones
+    3. Separate Cones
     
-    # 4. Sort Angularly
+    4. Sort Angularly
     
-    # 5. Interpolate to corresponding pairs
+    5. Interpolate to corresponding pairs
     
-    # 6. Compute Centerline
+    6. Compute Centerline
     
-    # 7. Visualization and Animation
+    7. Visualization and Animation
 
   
+
 
 
