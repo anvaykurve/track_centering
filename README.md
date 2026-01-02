@@ -31,8 +31,3 @@ Steps
     6. Compute Centerline
     
     7. Visualization and Animation
-
-  
-
-
-
