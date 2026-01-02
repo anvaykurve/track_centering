@@ -2,7 +2,7 @@ Problem Statement:
 
 You are given a CSV file (cones.csv) containing unordered 2D positions of blue and yellow cones that represent the left and right boundaries of a closed race track. Using only NumPy, pandas, and Matplotlib, reconstruct the track centerline by estimating the overall track center, sorting the cones angularly around this center, computing midpoints between corresponding blue–yellow cone pairs, and forming a continuous closed-loop trajectory with a consistent direction of travel. Visualize the cones and the generated centerline, animate a particle moving along the trajectory, and export the animation as an MP4 file to validate the result.
 
-Methodology
+Methodology:
 
 Data Loading: The cone positions and colors were loaded from cones.csv.
 
@@ -16,7 +16,7 @@ Centerline Calculation: The trajectory was computed as the midpoint between the 
 
 Visualization: The result is visualized with the cones and a particle animating along the path.
 
-Steps
+Steps:
 
     1. Load Data
 
@@ -31,3 +31,4 @@ Steps
     6. Compute Centerline
     
     7. Visualization and Animation
+
